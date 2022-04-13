@@ -1,0 +1,24 @@
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "tooqk4u",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooqk4u/Pizza-Hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tooqk4u/Pizza-Hunt/issues"
+  },
+  "homepage": "https://github.com/tooqk4u/Pizza-Hunt#readme"
+}
